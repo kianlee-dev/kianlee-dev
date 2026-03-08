@@ -2,7 +2,7 @@
 
 **Computer Science, University of Edinburgh**
 
-Building toward low-latency trading systems and quant development. Currently focused on financial technology, performance-critical systems, and C++.
+Interested in high-performance systems and financial technology. Currently building toward low-latency trading systems while open to backend engineering roles across fintech and tech.
 
 ---
 
@@ -35,7 +35,7 @@ CS graduate with strong foundations in systems programming, optimisation algorit
 
 ### Currently
 
-🎯 Targeting software engineering roles in financial technology and trading systems in Hong Kong  
+🎯 Targeting software engineering roles in financial technology, trading systems, and backend development in Hong Kong
 📈 Advancing in C++ with a focus on low-latency infrastructure and performance-critical systems  
 
 ---
