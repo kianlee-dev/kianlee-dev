@@ -14,6 +14,8 @@ CS graduate with strong foundations in systems programming, optimisation algorit
 
 ### Projects
 
+- **[Limit Order Book Matching Engine](https://github.com/kianlee-dev/limit-order-book)** *(In Progress)* — Price-time priority matching engine in Python with limit/market/IOC/FOK order types, event-driven pub/sub architecture, and nanosecond-level latency benchmarking. Developed in a Linux/Docker environment.
+
 - **[GeneticNAS Optimisation](https://github.com/kianlee-dev/genetic-nas-optimisation)** — Evolutionary algorithm optimisation for neural architecture search. Final year dissertation, University of Edinburgh (2024). Achieved 54.98% search efficiency gain with a hybrid Adaptive Flip + Blend Crossover over baseline model on CIFAR-10.
 
 - **[ICMS Face Recognition](https://github.com/kianlee-dev/icms-face-recognition)** — Full-stack desktop app with face recognition authentication, real-time course scheduling, and automated email notifications. Built with PyQt5, OpenCV, and MySQL.
