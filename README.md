@@ -22,6 +22,8 @@ CS graduate with strong foundations in systems programming, optimisation algorit
 
 -  **[Accented English ASR](https://github.com/kianlee-dev/foreign-accented-english-asr)** — Cross-accent transfer learning with Wav2Vec2 on European-accented English speech. Achieved up to 18% average WER reduction across accent subsets using the VoxPopuli dataset.
 
+-  **[Order Management API](https://github.com/kianlee-dev/order-management-api)** — REST API for trading order management built with FastAPI and Pydantic. Full CRUD with automatic validation, proper HTTP status codes, and interactive Swagger docs.
+
 ---
 
 ### Technical Skills
