@@ -14,7 +14,7 @@ CS graduate with strong foundations in systems programming, optimisation algorit
 
 ### Projects
 
-- **[Financial Document Intelligence](https://github.com/kianlee-dev/financial-document-intelligence)** — AI agent that ingests financial reports, stores them in a vector database, and answers questions with citations. LangGraph tool-calling agent over a RAG pipeline, traced through Langfuse, served via FastAPI. Supports annual reports and SEC filings across US, UK, HK, and JP markets.
+- **[Financial Document Intelligence](https://github.com/kianlee-dev/financial-document-intelligence)** — AI agent that ingests financial reports into a vector database and answers questions with citations. LangGraph tool-calling agent with reflexion node for grounding verification (faithfulness 4.27→4.9). LLM-as-judge eval suite with 35 test cases. Swappable backends (Claude/Ollama/vLLM). Google ADK comparison agent. FastAPI, Docker, CI.
 
 - **[Limit Order Book Matching Engine](https://github.com/kianlee-dev/limit-order-book)** — Price-time priority matching engine in Python with limit/market/IOC/FOK order types, event-driven pub/sub architecture, and nanosecond-level latency benchmarking. 1.3M inserts/sec, 3.6M cancels/sec. Linux/Docker development environment.
 
